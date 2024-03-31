@@ -1,7 +1,7 @@
 <h2>Project Title</h2>
-Eye Exercise
+<h3>Eye Exercise</h3>
 
-<b>Description of Project</b>
+<br><b>Description of Project</b>
 <br>The Eye Exercise Game is a fun and interactive web-based game designed to show how the eye ball moves by different human gestures. In this game, the player's objective is to move their mouse to different position and view different expression.
 
 <b>How to Run:</b>
